@@ -1,3 +1,13 @@
-"scripts": {
-  "build": "vue-cli-service build"
+{
+  "name": "demo-project",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "vue": "^2.6.14"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^4.5.0"
+  }
 }
